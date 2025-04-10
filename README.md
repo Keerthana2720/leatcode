@@ -31,13 +31,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0368-largest-divisible-subset](https://github.com/Keerthana2720/leatcode/tree/master/0368-largest-divisible-subset) |
 | [2262-solving-questions-with-brainpower](https://github.com/Keerthana2720/leatcode/tree/master/2262-solving-questions-with-brainpower) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0368-largest-divisible-subset](https://github.com/Keerthana2720/leatcode/tree/master/0368-largest-divisible-subset) |
 | [2262-solving-questions-with-brainpower](https://github.com/Keerthana2720/leatcode/tree/master/2262-solving-questions-with-brainpower) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Keerthana2720/leatcode/tree/master/0014-longest-common-prefix) |
+## Math
+|  |
+| ------- |
+| [0368-largest-divisible-subset](https://github.com/Keerthana2720/leatcode/tree/master/0368-largest-divisible-subset) |
+## Sorting
+|  |
+| ------- |
+| [0368-largest-divisible-subset](https://github.com/Keerthana2720/leatcode/tree/master/0368-largest-divisible-subset) |
 <!---LeetCode Topics End-->
