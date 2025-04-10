@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Keerthana2720/leatcode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Keerthana2720/leatcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Keerthana2720/leatcode/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/Keerthana2720/leatcode/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/Keerthana2720/leatcode/tree/master/0316-remove-duplicate-letters) |
 ## Stack
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Keerthana2720/leatcode/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/Keerthana2720/leatcode/tree/master/0290-word-pattern) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Keerthana2720/leatcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Keerthana2720/leatcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Array
