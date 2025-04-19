@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Keerthana2720/leatcode/tree/master/0151-reverse-words-in-a-string) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Keerthana2720/leatcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-solving-questions-with-brainpower](https://github.com/Keerthana2720/leatcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Keerthana2720/leatcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Keerthana2720/leatcode/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Keerthana2720/leatcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Keerthana2720/leatcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Keerthana2720/leatcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Dynamic Programming
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Keerthana2720/leatcode/tree/master/0368-largest-divisible-subset) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Keerthana2720/leatcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -100,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Keerthana2720/leatcode/tree/master/2626-count-the-number-of-good-subarrays) |
+## Binary Search
+|  |
+| ------- |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Keerthana2720/leatcode/tree/master/2699-count-the-number-of-fair-pairs) |
 <!---LeetCode Topics End-->
