@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Keerthana2720/leatcode/tree/master/0203-remove-linked-list-elements) |
 | [2050-count-good-numbers](https://github.com/Keerthana2720/leatcode/tree/master/2050-count-good-numbers) |
 ## Sliding Window
 |  |
@@ -170,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Keerthana2720/leatcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Keerthana2720/leatcode/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
