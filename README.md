@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Keerthana2720/leatcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Keerthana2720/leatcode/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/Keerthana2720/leatcode/tree/master/0316-remove-duplicate-letters) |
+| [1078-remove-outermost-parentheses](https://github.com/Keerthana2720/leatcode/tree/master/1078-remove-outermost-parentheses) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Keerthana2720/leatcode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Stack
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Keerthana2720/leatcode/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Keerthana2720/leatcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Keerthana2720/leatcode/tree/master/0682-baseball-game) |
+| [1078-remove-outermost-parentheses](https://github.com/Keerthana2720/leatcode/tree/master/1078-remove-outermost-parentheses) |
 ## Greedy
 |  |
 | ------- |
