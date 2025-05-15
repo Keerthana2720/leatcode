@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/Keerthana2720/leatcode/tree/master/0868-push-dominoes) |
 | [1078-remove-outermost-parentheses](https://github.com/Keerthana2720/leatcode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Keerthana2720/leatcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Keerthana2720/leatcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Keerthana2720/leatcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Keerthana2720/leatcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Keerthana2720/leatcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Keerthana2720/leatcode/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Keerthana2720/leatcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Keerthana2720/leatcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Keerthana2720/leatcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Keerthana2720/leatcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Monotonic Stack
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/Keerthana2720/leatcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Keerthana2720/leatcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/Keerthana2720/leatcode/tree/master/2915-count-of-interesting-subarrays) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Keerthana2720/leatcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Keerthana2720/leatcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Keerthana2720/leatcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Keerthana2720/leatcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/Keerthana2720/leatcode/tree/master/0868-push-dominoes) |
 | [2262-solving-questions-with-brainpower](https://github.com/Keerthana2720/leatcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Keerthana2720/leatcode/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Keerthana2720/leatcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Keerthana2720/leatcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Keerthana2720/leatcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Keerthana2720/leatcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
