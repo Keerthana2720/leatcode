@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Keerthana2720/leatcode/tree/master/0005-longest-palindromic-substring) |
+| [0075-sort-colors](https://github.com/Keerthana2720/leatcode/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Keerthana2720/leatcode/tree/master/0151-reverse-words-in-a-string) |
 | [0868-push-dominoes](https://github.com/Keerthana2720/leatcode/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/Keerthana2720/leatcode/tree/master/0908-middle-of-the-linked-list) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Keerthana2720/leatcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Keerthana2720/leatcode/tree/master/0169-majority-element) |
 | [0368-largest-divisible-subset](https://github.com/Keerthana2720/leatcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Keerthana2720/leatcode/tree/master/0416-partition-equal-subset-sum) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Keerthana2720/leatcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Keerthana2720/leatcode/tree/master/0169-majority-element) |
 | [0368-largest-divisible-subset](https://github.com/Keerthana2720/leatcode/tree/master/0368-largest-divisible-subset) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Keerthana2720/leatcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
