@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Keerthana2720/leatcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Keerthana2720/leatcode/tree/master/0290-word-pattern) |
 | [0496-next-greater-element-i](https://github.com/Keerthana2720/leatcode/tree/master/0496-next-greater-element-i) |
+| [0594-longest-harmonious-subsequence](https://github.com/Keerthana2720/leatcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/Keerthana2720/leatcode/tree/master/0797-rabbits-in-forest) |
 | [1500-count-largest-group](https://github.com/Keerthana2720/leatcode/tree/master/1500-count-largest-group) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Keerthana2720/leatcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Keerthana2720/leatcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Keerthana2720/leatcode/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/Keerthana2720/leatcode/tree/master/0496-next-greater-element-i) |
+| [0594-longest-harmonious-subsequence](https://github.com/Keerthana2720/leatcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0682-baseball-game](https://github.com/Keerthana2720/leatcode/tree/master/0682-baseball-game) |
 | [0797-rabbits-in-forest](https://github.com/Keerthana2720/leatcode/tree/master/0797-rabbits-in-forest) |
 | [0945-snakes-and-ladders](https://github.com/Keerthana2720/leatcode/tree/master/0945-snakes-and-ladders) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Keerthana2720/leatcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Keerthana2720/leatcode/tree/master/0169-majority-element) |
 | [0368-largest-divisible-subset](https://github.com/Keerthana2720/leatcode/tree/master/0368-largest-divisible-subset) |
+| [0594-longest-harmonious-subsequence](https://github.com/Keerthana2720/leatcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1095-two-city-scheduling](https://github.com/Keerthana2720/leatcode/tree/master/1095-two-city-scheduling) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Keerthana2720/leatcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Keerthana2720/leatcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Keerthana2720/leatcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0594-longest-harmonious-subsequence](https://github.com/Keerthana2720/leatcode/tree/master/0594-longest-harmonious-subsequence) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Keerthana2720/leatcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Keerthana2720/leatcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Keerthana2720/leatcode/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -302,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Keerthana2720/leatcode/tree/master/0169-majority-element) |
+| [0594-longest-harmonious-subsequence](https://github.com/Keerthana2720/leatcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Keerthana2720/leatcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Keerthana2720/leatcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Keerthana2720/leatcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
