@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Keerthana2720/leatcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Keerthana2720/leatcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/Keerthana2720/leatcode/tree/master/3647-zero-array-transformation-iii) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Keerthana2720/leatcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3639-zero-array-transformation-i](https://github.com/Keerthana2720/leatcode/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Keerthana2720/leatcode/tree/master/3647-zero-array-transformation-iii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Keerthana2720/leatcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Keerthana2720/leatcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Keerthana2720/leatcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Dynamic Programming
 |  |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/Keerthana2720/leatcode/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/Keerthana2720/leatcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Keerthana2720/leatcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Keerthana2720/leatcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Recursion
 |  |
 | ------- |
