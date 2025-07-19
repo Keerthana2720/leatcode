@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Keerthana2720/leatcode/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/Keerthana2720/leatcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Keerthana2720/leatcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Keerthana2720/leatcode/tree/master/0075-sort-colors) |
 | [0135-candy](https://github.com/Keerthana2720/leatcode/tree/master/0135-candy) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Keerthana2720/leatcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Keerthana2720/leatcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Keerthana2720/leatcode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Keerthana2720/leatcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Keerthana2720/leatcode/tree/master/0070-climbing-stairs) |
 | [0224-basic-calculator](https://github.com/Keerthana2720/leatcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Keerthana2720/leatcode/tree/master/0227-basic-calculator-ii) |
