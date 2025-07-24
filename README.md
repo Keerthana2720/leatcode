@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Keerthana2720/leatcode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Keerthana2720/leatcode/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/Keerthana2720/leatcode/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/Keerthana2720/leatcode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/Keerthana2720/leatcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Keerthana2720/leatcode/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/Keerthana2720/leatcode/tree/master/0224-basic-calculator) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Keerthana2720/leatcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Keerthana2720/leatcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Keerthana2720/leatcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Keerthana2720/leatcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Keerthana2720/leatcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Keerthana2720/leatcode/tree/master/0205-isomorphic-strings) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Keerthana2720/leatcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Keerthana2720/leatcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Keerthana2720/leatcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Keerthana2720/leatcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Keerthana2720/leatcode/tree/master/0075-sort-colors) |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Keerthana2720/leatcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Keerthana2720/leatcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Keerthana2720/leatcode/tree/master/0169-majority-element) |
 | [0368-largest-divisible-subset](https://github.com/Keerthana2720/leatcode/tree/master/0368-largest-divisible-subset) |
