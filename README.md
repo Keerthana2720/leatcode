@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Keerthana2720/leatcode/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/Keerthana2720/leatcode/tree/master/0316-remove-duplicate-letters) |
 | [0868-push-dominoes](https://github.com/Keerthana2720/leatcode/tree/master/0868-push-dominoes) |
+| [1023-time-based-key-value-store](https://github.com/Keerthana2720/leatcode/tree/master/1023-time-based-key-value-store) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Keerthana2720/leatcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Keerthana2720/leatcode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Keerthana2720/leatcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Keerthana2720/leatcode/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/Keerthana2720/leatcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/Keerthana2720/leatcode/tree/master/0797-rabbits-in-forest) |
+| [1023-time-based-key-value-store](https://github.com/Keerthana2720/leatcode/tree/master/1023-time-based-key-value-store) |
 | [1500-count-largest-group](https://github.com/Keerthana2720/leatcode/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Keerthana2720/leatcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/Keerthana2720/leatcode/tree/master/1813-maximum-erasure-value) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1023-time-based-key-value-store](https://github.com/Keerthana2720/leatcode/tree/master/1023-time-based-key-value-store) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Keerthana2720/leatcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Keerthana2720/leatcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Keerthana2720/leatcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -499,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [1023-time-based-key-value-store](https://github.com/Keerthana2720/leatcode/tree/master/1023-time-based-key-value-store) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Keerthana2720/leatcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Hash Function
 |  |
