@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Keerthana2720/leatcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Keerthana2720/leatcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Keerthana2720/leatcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Keerthana2720/leatcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Keerthana2720/leatcode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Keerthana2720/leatcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Keerthana2720/leatcode/tree/master/0496-next-greater-element-i) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Keerthana2720/leatcode/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/Keerthana2720/leatcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Keerthana2720/leatcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Keerthana2720/leatcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Keerthana2720/leatcode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Keerthana2720/leatcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Keerthana2720/leatcode/tree/master/0416-partition-equal-subset-sum) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Keerthana2720/leatcode/tree/master/0070-climbing-stairs) |
 | [0224-basic-calculator](https://github.com/Keerthana2720/leatcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Keerthana2720/leatcode/tree/master/0227-basic-calculator-ii) |
+| [0268-missing-number](https://github.com/Keerthana2720/leatcode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Keerthana2720/leatcode/tree/master/0273-integer-to-english-words) |
 | [0368-largest-divisible-subset](https://github.com/Keerthana2720/leatcode/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/Keerthana2720/leatcode/tree/master/0797-rabbits-in-forest) |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Keerthana2720/leatcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Keerthana2720/leatcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Keerthana2720/leatcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Keerthana2720/leatcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Keerthana2720/leatcode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Keerthana2720/leatcode/tree/master/0368-largest-divisible-subset) |
 | [0594-longest-harmonious-subsequence](https://github.com/Keerthana2720/leatcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -322,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Keerthana2720/leatcode/tree/master/0268-missing-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Keerthana2720/leatcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Keerthana2720/leatcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Keerthana2720/leatcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -371,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Keerthana2720/leatcode/tree/master/0268-missing-number) |
 | [1023-time-based-key-value-store](https://github.com/Keerthana2720/leatcode/tree/master/1023-time-based-key-value-store) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Keerthana2720/leatcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Keerthana2720/leatcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
