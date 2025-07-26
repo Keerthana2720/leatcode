@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Keerthana2720/leatcode/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/Keerthana2720/leatcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Keerthana2720/leatcode/tree/master/0227-basic-calculator-ii) |
+| [0242-valid-anagram](https://github.com/Keerthana2720/leatcode/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/Keerthana2720/leatcode/tree/master/0273-integer-to-english-words) |
 | [0290-word-pattern](https://github.com/Keerthana2720/leatcode/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/Keerthana2720/leatcode/tree/master/0316-remove-duplicate-letters) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Keerthana2720/leatcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Keerthana2720/leatcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Keerthana2720/leatcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Keerthana2720/leatcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Keerthana2720/leatcode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Keerthana2720/leatcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Keerthana2720/leatcode/tree/master/0496-next-greater-element-i) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Keerthana2720/leatcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Keerthana2720/leatcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Keerthana2720/leatcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Keerthana2720/leatcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Keerthana2720/leatcode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Keerthana2720/leatcode/tree/master/0368-largest-divisible-subset) |
 | [0594-longest-harmonious-subsequence](https://github.com/Keerthana2720/leatcode/tree/master/0594-longest-harmonious-subsequence) |
