@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Keerthana2720/leatcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Keerthana2720/leatcode/tree/master/0075-sort-colors) |
 | [0135-candy](https://github.com/Keerthana2720/leatcode/tree/master/0135-candy) |
+| [0152-maximum-product-subarray](https://github.com/Keerthana2720/leatcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Keerthana2720/leatcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Keerthana2720/leatcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Keerthana2720/leatcode/tree/master/0268-missing-number) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Keerthana2720/leatcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Keerthana2720/leatcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Keerthana2720/leatcode/tree/master/0070-climbing-stairs) |
+| [0152-maximum-product-subarray](https://github.com/Keerthana2720/leatcode/tree/master/0152-maximum-product-subarray) |
 | [0368-largest-divisible-subset](https://github.com/Keerthana2720/leatcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Keerthana2720/leatcode/tree/master/0416-partition-equal-subset-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/Keerthana2720/leatcode/tree/master/0806-domino-and-tromino-tiling) |
