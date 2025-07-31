@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Keerthana2720/leatcode/tree/master/0005-longest-palindromic-substring) |
 | [0075-sort-colors](https://github.com/Keerthana2720/leatcode/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Keerthana2720/leatcode/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/Keerthana2720/leatcode/tree/master/0189-rotate-array) |
 | [0868-push-dominoes](https://github.com/Keerthana2720/leatcode/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/Keerthana2720/leatcode/tree/master/0908-middle-of-the-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Keerthana2720/leatcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Keerthana2720/leatcode/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/Keerthana2720/leatcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Keerthana2720/leatcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Keerthana2720/leatcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Keerthana2720/leatcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Keerthana2720/leatcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Keerthana2720/leatcode/tree/master/0347-top-k-frequent-elements) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Keerthana2720/leatcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Keerthana2720/leatcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Keerthana2720/leatcode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Keerthana2720/leatcode/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/Keerthana2720/leatcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Keerthana2720/leatcode/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/Keerthana2720/leatcode/tree/master/0268-missing-number) |
