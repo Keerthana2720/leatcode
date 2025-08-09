@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Keerthana2720/leatcode/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/Keerthana2720/leatcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Keerthana2720/leatcode/tree/master/0227-basic-calculator-ii) |
+| [0231-power-of-two](https://github.com/Keerthana2720/leatcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Keerthana2720/leatcode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Keerthana2720/leatcode/tree/master/0273-integer-to-english-words) |
 | [0368-largest-divisible-subset](https://github.com/Keerthana2720/leatcode/tree/master/0368-largest-divisible-subset) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Keerthana2720/leatcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Keerthana2720/leatcode/tree/master/0268-missing-number) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Keerthana2720/leatcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Keerthana2720/leatcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Keerthana2720/leatcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Keerthana2720/leatcode/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Keerthana2720/leatcode/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/Keerthana2720/leatcode/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/Keerthana2720/leatcode/tree/master/0273-integer-to-english-words) |
 | [1013-fibonacci-number](https://github.com/Keerthana2720/leatcode/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/Keerthana2720/leatcode/tree/master/2050-count-good-numbers) |
