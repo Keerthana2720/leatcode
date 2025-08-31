@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Keerthana2720/leatcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Keerthana2720/leatcode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Keerthana2720/leatcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Keerthana2720/leatcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Keerthana2720/leatcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Keerthana2720/leatcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Keerthana2720/leatcode/tree/master/0073-set-matrix-zeroes) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Keerthana2720/leatcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Keerthana2720/leatcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Keerthana2720/leatcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Keerthana2720/leatcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Keerthana2720/leatcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Keerthana2720/leatcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Keerthana2720/leatcode/tree/master/0053-maximum-subarray) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Keerthana2720/leatcode/tree/master/0037-sudoku-solver) |
 | [0679-24-game](https://github.com/Keerthana2720/leatcode/tree/master/0679-24-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Keerthana2720/leatcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Keerthana2720/leatcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -569,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Keerthana2720/leatcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Keerthana2720/leatcode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Keerthana2720/leatcode/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/Keerthana2720/leatcode/tree/master/0498-diagonal-traverse) |
 | [0945-snakes-and-ladders](https://github.com/Keerthana2720/leatcode/tree/master/0945-snakes-and-ladders) |
