@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Keerthana2720/leatcode/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Keerthana2720/leatcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Keerthana2720/leatcode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/Keerthana2720/leatcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Keerthana2720/leatcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/Keerthana2720/leatcode/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/Keerthana2720/leatcode/tree/master/0152-maximum-product-subarray) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Keerthana2720/leatcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Keerthana2720/leatcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Keerthana2720/leatcode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/Keerthana2720/leatcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Keerthana2720/leatcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Keerthana2720/leatcode/tree/master/0152-maximum-product-subarray) |
 | [0368-largest-divisible-subset](https://github.com/Keerthana2720/leatcode/tree/master/0368-largest-divisible-subset) |
