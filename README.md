@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Keerthana2720/leatcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Keerthana2720/leatcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Keerthana2720/leatcode/tree/master/3791-fruits-into-baskets-iii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Keerthana2720/leatcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3639-zero-array-transformation-i](https://github.com/Keerthana2720/leatcode/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Keerthana2720/leatcode/tree/master/3647-zero-array-transformation-iii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Keerthana2720/leatcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Keerthana2720/leatcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Number Theory
 |  |
 | ------- |
@@ -555,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Keerthana2720/leatcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/Keerthana2720/leatcode/tree/master/2479-meeting-rooms-iii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Keerthana2720/leatcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Keerthana2720/leatcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Divide and Conquer
 |  |
 | ------- |
