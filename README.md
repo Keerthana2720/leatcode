@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Keerthana2720/leatcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Keerthana2720/leatcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Keerthana2720/leatcode/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2169-simple-bank-system](https://github.com/Keerthana2720/leatcode/tree/master/2169-simple-bank-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Keerthana2720/leatcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Keerthana2720/leatcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Keerthana2720/leatcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/Keerthana2720/leatcode/tree/master/2048-build-array-from-permutation) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Keerthana2720/leatcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Keerthana2720/leatcode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2169-simple-bank-system](https://github.com/Keerthana2720/leatcode/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Keerthana2720/leatcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Keerthana2720/leatcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Keerthana2720/leatcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -568,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Keerthana2720/leatcode/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/Keerthana2720/leatcode/tree/master/0682-baseball-game) |
 | [2048-build-array-from-permutation](https://github.com/Keerthana2720/leatcode/tree/master/2048-build-array-from-permutation) |
+| [2169-simple-bank-system](https://github.com/Keerthana2720/leatcode/tree/master/2169-simple-bank-system) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Keerthana2720/leatcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Keerthana2720/leatcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Keerthana2720/leatcode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -736,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1023-time-based-key-value-store](https://github.com/Keerthana2720/leatcode/tree/master/1023-time-based-key-value-store) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Keerthana2720/leatcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2169-simple-bank-system](https://github.com/Keerthana2720/leatcode/tree/master/2169-simple-bank-system) |
 | [2429-design-a-food-rating-system](https://github.com/Keerthana2720/leatcode/tree/master/2429-design-a-food-rating-system) |
 ## Hash Function
 |  |
