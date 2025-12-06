@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Keerthana2720/leatcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Keerthana2720/leatcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Keerthana2720/leatcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Keerthana2720/leatcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Keerthana2720/leatcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Keerthana2720/leatcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Keerthana2720/leatcode/tree/master/0290-word-pattern) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Keerthana2720/leatcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Keerthana2720/leatcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Keerthana2720/leatcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Keerthana2720/leatcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Keerthana2720/leatcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Keerthana2720/leatcode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Keerthana2720/leatcode/tree/master/0368-largest-divisible-subset) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Keerthana2720/leatcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Keerthana2720/leatcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Keerthana2720/leatcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Keerthana2720/leatcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Keerthana2720/leatcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Keerthana2720/leatcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Keerthana2720/leatcode/tree/master/0347-top-k-frequent-elements) |
@@ -610,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Keerthana2720/leatcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Keerthana2720/leatcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Keerthana2720/leatcode/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/Keerthana2720/leatcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/Keerthana2720/leatcode/tree/master/0900-reordered-power-of-2) |
