@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Keerthana2720/leatcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Keerthana2720/leatcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Keerthana2720/leatcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Keerthana2720/leatcode/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Keerthana2720/leatcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Keerthana2720/leatcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Keerthana2720/leatcode/tree/master/1628-count-submatrices-with-all-ones) |
@@ -587,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Keerthana2720/leatcode/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/Keerthana2720/leatcode/tree/master/0682-baseball-game) |
+| [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Keerthana2720/leatcode/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2048-build-array-from-permutation](https://github.com/Keerthana2720/leatcode/tree/master/2048-build-array-from-permutation) |
 | [2169-simple-bank-system](https://github.com/Keerthana2720/leatcode/tree/master/2169-simple-bank-system) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Keerthana2720/leatcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -781,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Keerthana2720/leatcode/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Keerthana2720/leatcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Ordered Set
 |  |
