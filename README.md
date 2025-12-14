@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/Keerthana2720/leatcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/Keerthana2720/leatcode/tree/master/1894-merge-strings-alternately) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Keerthana2720/leatcode/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Keerthana2720/leatcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Keerthana2720/leatcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Keerthana2720/leatcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Keerthana2720/leatcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Keerthana2720/leatcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Keerthana2720/leatcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Keerthana2720/leatcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Keerthana2720/leatcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2262-solving-questions-with-brainpower](https://github.com/Keerthana2720/leatcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Keerthana2720/leatcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Keerthana2720/leatcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Keerthana2720/leatcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Keerthana2720/leatcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/Keerthana2720/leatcode/tree/master/2050-count-good-numbers) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Keerthana2720/leatcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Keerthana2720/leatcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Keerthana2720/leatcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Keerthana2720/leatcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
