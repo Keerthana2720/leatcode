@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Keerthana2720/leatcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Keerthana2720/leatcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Keerthana2720/leatcode/tree/master/0205-isomorphic-strings) |
+| [0214-shortest-palindrome](https://github.com/Keerthana2720/leatcode/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/Keerthana2720/leatcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Keerthana2720/leatcode/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/Keerthana2720/leatcode/tree/master/0242-valid-anagram) |
@@ -779,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Keerthana2720/leatcode/tree/master/0214-shortest-palindrome) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Keerthana2720/leatcode/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Bucket Sort
 |  |
@@ -841,4 +843,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Keerthana2720/leatcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Keerthana2720/leatcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Keerthana2720/leatcode/tree/master/0543-diameter-of-binary-tree) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Keerthana2720/leatcode/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Keerthana2720/leatcode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
