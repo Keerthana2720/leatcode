@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Keerthana2720/leatcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Keerthana2720/leatcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Keerthana2720/leatcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Keerthana2720/leatcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Keerthana2720/leatcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Keerthana2720/leatcode/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Keerthana2720/leatcode/tree/master/1510-find-lucky-integer-in-an-array) |
