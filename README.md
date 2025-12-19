@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/Keerthana2720/leatcode/tree/master/0868-push-dominoes) |
 | [1023-time-based-key-value-store](https://github.com/Keerthana2720/leatcode/tree/master/1023-time-based-key-value-store) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Keerthana2720/leatcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Keerthana2720/leatcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1078-remove-outermost-parentheses](https://github.com/Keerthana2720/leatcode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Keerthana2720/leatcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Keerthana2720/leatcode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/Keerthana2720/leatcode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/Keerthana2720/leatcode/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/Keerthana2720/leatcode/tree/master/1013-fibonacci-number) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Keerthana2720/leatcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Keerthana2720/leatcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Keerthana2720/leatcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/Keerthana2720/leatcode/tree/master/1448-maximum-69-number) |
