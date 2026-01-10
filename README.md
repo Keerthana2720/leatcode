@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Keerthana2720/leatcode/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/Keerthana2720/leatcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Keerthana2720/leatcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Keerthana2720/leatcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0868-push-dominoes](https://github.com/Keerthana2720/leatcode/tree/master/0868-push-dominoes) |
 | [1023-time-based-key-value-store](https://github.com/Keerthana2720/leatcode/tree/master/1023-time-based-key-value-store) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Keerthana2720/leatcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Keerthana2720/leatcode/tree/master/0152-maximum-product-subarray) |
 | [0368-largest-divisible-subset](https://github.com/Keerthana2720/leatcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Keerthana2720/leatcode/tree/master/0416-partition-equal-subset-sum) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Keerthana2720/leatcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0806-domino-and-tromino-tiling](https://github.com/Keerthana2720/leatcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/Keerthana2720/leatcode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Keerthana2720/leatcode/tree/master/0867-new-21-game) |
