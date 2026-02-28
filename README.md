@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/Keerthana2720/leatcode/tree/master/0908-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/Keerthana2720/leatcode/tree/master/1768-merge-strings-alternately) |
 | [1894-merge-strings-alternately](https://github.com/Keerthana2720/leatcode/tree/master/1894-merge-strings-alternately) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Keerthana2720/leatcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Keerthana2720/leatcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Keerthana2720/leatcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Keerthana2720/leatcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -675,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/Keerthana2720/leatcode/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Keerthana2720/leatcode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Keerthana2720/leatcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Keerthana2720/leatcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Graph
 |  |
 | ------- |
